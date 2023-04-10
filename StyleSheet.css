@@ -1,0 +1,110 @@
+* {
+
+      font-family: Arial, Verdana, sans-serif;
+      color: #black;
+      text-align: center;}
+      
+title {
+      AllSportsNews
+}
+
+body {
+      width: 960px;
+     margin: 0 auto;
+     background-color: #D3D3D3}
+
+nav { 
+  background-color: #16E2F5;
+  padding:5px;
+  margin: 40px;
+  font-size: 24;
+
+}
+li {
+  display: inline;
+  padding: 10px;
+}
+#content {
+      overflow: auto;
+      height: 100%;}
+.column1, .column2, .column3 {
+      float: left;
+      margin: 10px;}
+
+dt {
+      text-align: center;
+      font-weight: bold;
+}
+
+<dd> {
+      text-align: center;
+}
+  
+tr {
+      background-color: #7BCCB5;
+}
+
+div {
+      border-color: #0909FF;
+}
+
+h1 {
+      font-family: Garamond, serif;
+      color: #191970;
+}
+
+h3 {
+      font-family: Papyrus, fantasy;
+      color:#00008B;
+      }
+
+head {
+      font-size: 28;
+}
+
+footer {
+      text-align: center;
+      font font-size: 28;
+      padding:90px;
+
+}
+
+section {
+      Text-align: Left;
+}
+
+article {
+      text-align: Right;
+}
+
+h4 {
+      text-align: Left;
+}
+
+h5 {
+      Text-align: Right;
+      text-size-adjust: 28;
+}
+
+table {
+      table-layout: fixed;
+     width=100%
+     border: 20 solid;
+     border-color: steelblue;
+     background-color: #77BFC7;
+}
+
+td {
+      text-align: Center;
+      background-color: #77BFC7;
+      height: 450;
+      border-color:steelblue;
+}
+
+table, th, td {
+      border: 5px solid;
+}
+
+th {
+      text-align: Left;
+}
